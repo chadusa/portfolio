@@ -1,0 +1,13 @@
+
+i used to learn C
+         but i don't know C#, C++ , Vue.js, .NET,
+         Laravel, WordPress, Ruby, and Swift, 
+         <br /><br />
+          i love Java, Javascript, MonogoDB, MySQL, PostgreSQL
+          <br />
+          OK with .. Python, Django , Flask, Numpy, Matplotlib, 
+          <br />
+          i use IDLE ..
+          IntelliJ IDEA,  Eclipse, VSCode, PyCharm
+
+
