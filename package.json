@@ -6,7 +6,7 @@
   "homepage": "https://github.com/chadusa/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "start": "npm run sass"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Chet",
   "license": "ISC",
