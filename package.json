@@ -5,8 +5,8 @@
   "main": "index.js",
   "homepage": "https://github.com/chadusa/portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
-
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "start": "gh-pages -d dist"
   },
   "author": "Chet",
   "license": "ISC",
