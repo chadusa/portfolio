@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "my portfolio",
   "main": "index.js",
-  "homepage": "https://chadusa.github.com/portfolio",
+  "homepage": "https://github.com/chadusa/portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+
   },
   "author": "Chet",
   "license": "ISC",
